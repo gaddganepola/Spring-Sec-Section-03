@@ -1,4 +1,4 @@
-package com.ddg.SpringSecSection02.controller;
+package com.ddg.SpringSecSection03.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
